@@ -11,7 +11,7 @@ Because it is the place to share your passion and get loads of input for how you
 I am also studying to become a Web Developer and thus watch this space for my future projects.
 
 **Where else can you find me?**
-My personal web-page (which improving it will be my first project on completion of the Makers Academy bootcamp) is the following: www.sakellarios.net
+My personal web-page (which improving it will be my first project on completion of the Makers Academy bootcamp) is the following: [www.sakellarios.net](www.sakellarios.net)
 
 ------
 
