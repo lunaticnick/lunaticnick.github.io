@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to Nikolaos GitHub Repository
 
-You can use the [editor on GitHub](https://github.com/lunaticnick/lunaticnick.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Who am I?**
+I am an Engineer with a passion for technology, whether it is in the form of software or hardware.
 
-### Markdown
+I like fixing things or even better making things from scratch!!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Why GitHub?**
+Because it is the place to share your passion and get loads of input for how you can improve your software.
+I am also studying to become a Web Developer and thus watch this space for my future projects.
 
-```markdown
-Syntax highlighted code block
+**Where else can you find me?**
+My personal web-page (which improving it will be my first project on completion of the Makers Academy bootcamp) is the following: www.sakellarios.net
 
-# Header 1
-## Header 2
-### Header 3
+------
 
-- Bulleted
-- List
+So I hope you tag along in my journey of learning properly how to code and create cool projects.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lunaticnick/lunaticnick.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Nikolaos
