@@ -4,7 +4,7 @@
 **Who am I?**
 I am an Engineer with a passion for technology, whether it is in the form of software or hardware.
 
-I like fixing things or even better making things from scratch!!
+I like fixing things or even better, making things from scratch!!
 
 **Why GitHub?**
 Because it is the place to share your passion and get loads of input for how you can improve your software.
