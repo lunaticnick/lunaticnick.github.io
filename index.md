@@ -4,14 +4,15 @@
 **Who am I?**
 I am an Engineer with a passion for technology, whether it is in the form of software or hardware.
 
-I like fixing things or even better, making things from scratch!!
+Also I have recently graduated from [Makers Acedemy](http://www.makersacademy.com), so I can also claim the title of a Web Developer.
+
 
 **Why GitHub?**
 Because it is the place to share your passion and get loads of input for how you can improve your software.
-I am also studying to become a Web Developer and thus watch this space for my future projects.
+
 
 **Where else can you find me?**
-My personal web-page (which improving it will be my first project on completion of the Makers Academy bootcamp) is the following: http://www.sakellarios.net
+My personal web-page/ e-card site is the following: http://www.sakellarios.net
 
 ------
 
